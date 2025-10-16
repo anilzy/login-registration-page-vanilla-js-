@@ -26,6 +26,6 @@ logOut.addEventListener("click",(e)=>{
  alert("succesfully logOut")
     }
    
-    window.location.href="/login.html";
+    window.location.href="login.html";
 
 })
